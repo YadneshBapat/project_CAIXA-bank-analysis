@@ -1,7 +1,17 @@
 # CIAXA-bank-analysis
 
-#### Why
-pppppppppppppppppppppppppppppppp
+### Background & overview
+context and goals in eyes of data analyst
 
-## why
-pppppppppppppppppppppp
+### Data structure
+include an ERD diagram
+
+### Executive summary
+- quantative value
+- business metric
+- historical trend and story
+
+### Insights deep dive
+
+### Recommendations
+
