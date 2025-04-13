@@ -1,37 +1,8 @@
 # CAIXA-bank-analysis
 
-## This webpage will be updated on 31/03/2025 at 20:00 with full project details.
+## The project is ongoing and will be completed in a few weeks. Check out my project about NSW road crash analysis [here](https://github.com/YadneshBapat/Project_NSW-road-crash-analysis) 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Background & overview
-context and goals in eyes of data analyst
-
-### Data structure
-include an ERD diagram
-
-### Executive summary
-- quantative value
-- business metric
-- historical trend and story
-
-### Insights deep dive
-
-### Recommendations
 
